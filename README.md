@@ -27,7 +27,7 @@
 </ul>
 
 <h2>📄 Access the Full Tutorial</h2>
-<p>👉 <a href="INSTALLATION.md">View the complete step-by-step guide</a></p>
+<p>👉 <a href="https://github.com/marcusdunlapgit/Azure_Resource_Deployment">View the complete step-by-step guide</a></p>
 
 <hr>
 
